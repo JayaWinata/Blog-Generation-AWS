@@ -85,9 +85,3 @@ The system takes a blog topic as input, generates a ~200-word blog using a found
 - Include metadata or tags in the generated blog.
 - Store logs and analytics in a structured database (e.g., DynamoDB).
 - Frontend UI using Streamlit or a web dashboard.
-
----
-
-## License
-
-This project is licensed under the MIT License.
